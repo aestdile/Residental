@@ -15,7 +15,7 @@ namespace Residental.Api.Controllers
     {
         [HttpGet]
         public ActionResult<string> Get() =>
-            Ok("Hello Mukhtor. Welcome to real project which based on standart requirements!");
+            Ok("Hello Mukhtor. Welcome to real project which based on standart requirements! ");
     }
 }
 
