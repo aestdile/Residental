@@ -18,3 +18,4 @@ namespace Residental.Api.Controllers
             Ok("Hello Mukhtor, the princess is in another castle");
     }
 }
+
